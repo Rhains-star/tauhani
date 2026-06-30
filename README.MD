@@ -1,7 +1,7 @@
 # Taunahi
 <div align="center">
   <a target="_blank">
-    <img alt="version" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
+    <img alt="version" src="https://img.shields.io/badge/MC%20Version-1.21.11-blue?color=%239f00ff&style=for-the-badge" />
   </a>
   <a target="_blank">
     <img alt="mcversion" src="https://img.shields.io/badge/Release-3.5.40-blue?color=%239f00ff&style=for-the-badge" />
@@ -12,29 +12,22 @@
 
 ## Installing Taunahi
 
-**Forge 1.8.9 mod**.
+**Fabric 1.21.11**.
 
 If you don't need to be shown how to install a Forge mod, you can leave this guide and continue.
 
 ---
 
-## Installing Forge
+## Installing Fabric
 
-- Make sure you've run Vanilla 1.8.9 before, since Forge builds on top of that.
-- Make sure you have **Java 8** installed. If `.jar` files do not show a Java logo icon, then either Java isn't installed or your default app settings are incorrect. You can download Java 8 here: [https://www.azul.com/downloads/?package=jdk](https://www.azul.com/downloads/?package=jdk)
-- Download the Forge **installer** from: [https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
-- Double-click the installer `.jar` file.
-- Make sure the "Install Client" checkbox is selected, then click OK and let it install.
-- Reopen your Minecraft Launcher. A new "Forge 1.8.9" profile should appear. If not, create a new installation manually and select the Forge version (it's at the bottom of the list, under Release 1.0).
+- Make sure you've run Fabric 1.21.11.
 
 ---
 
 ## Installing Mods
 
-- After installing Forge, go to your `.minecraft/mods/` folder and remove any non-1.8.9 mods.
+- After installing Fabric, go to your `.minecraft/mods/`.
 - Place your Taunahi `.jar` file in this folder.
-- **It is strongly recommended to also install OptiFine and Patcher.** Other SkyBlock-related mods may also help but can sometimes cause mod conflicts.
-
 --- 
 
 ## Basic Usage
